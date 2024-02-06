@@ -1,6 +1,6 @@
 # 🔮 Flutter-Examples
 
-🪄 This Repositopry contains Flutter small projects.
+🪄 This Repository contains Flutter small projects.
 
 🧠 The Goal was to learn about Flutter,Dart and App Development while making these projects.
 
