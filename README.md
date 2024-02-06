@@ -12,7 +12,7 @@
 
 ---
 
-# 1) Grey Counter Application using Flutter
+## 1) Grey Counter Application using Flutter
 
 👨🏻‍💻 I made really simple aesthetic looking Counter Application📱 using Flutter✨ which does literally what its name says.
 
@@ -25,15 +25,20 @@
 🔮 You can visit this Repository by clicking [here](https://github.com/quibler7/Grey-Counter-Application-using-Flutter).
 
 
-## Screenshots 
+### Screenshots 
 
-  <img src = "lib/7.png" height = 426 width = 196.5 >
-  <img src = "lib/0.png" height = 426 width = 196.5 >
-
+ <table width = "%100">
+  <tbody>
+  <tr>
+  <td width = "%1"><img src = "https://github.com/quibler7/Grey-Counter-Application-using-Flutter/raw/main/lib/0.png" height = 426 width = 196.5 ></td>
+  <td width = "%1"><img src = "https://github.com/quibler7/Grey-Counter-Application-using-Flutter/raw/main/lib/7.png" height = 426 width = 196.5 ></td>
+  </tr>
+  </tbody>
+  </table>
 ---
 
 
-# 2) BottomNavigationBar using Flutter
+## 2) BottomNavigationBar using Flutter
 
 🪄 I made a simple App containing BottomNavigationBar using GNav ( google nav bar ) 
 
@@ -42,10 +47,16 @@
 🔮 You can visit this Repository by clicking [here](https://github.com/quibler7/BottomNavigationBar-using-Flutter).
 
 
-## Screenshots 
+### Screenshots 
 
-  <img src = "lib/pages/screenshots/GNav1.png" height = 426 width = 196.5 >
-  <img src = "lib/pages/screenshots/GNav2.png" height = 426 width = 196.5 >
+  <table width = "%100">
+  <tbody>
+  <tr>
+  <td width = "%1"><img src = "https://github.com/quibler7/BottomNavigationBar-using-Flutter/raw/main/lib/pages/screenshots/GNav1.png" height = 426 width = 196.5 ></td>
+  <td width = "%1"><img src = "https://github.com/quibler7/BottomNavigationBar-using-Flutter/raw/main/lib/pages/screenshots/GNav2.png" height = 426 width = 196.5 ></td>
+  </tr>
+  </tbody>
+  </table>
 
 ---
 
