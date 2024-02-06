@@ -1,4 +1,4 @@
-# Flutter-Examples
+# 🔮 Flutter-Examples
 
 🪄 This Repositopry contains Flutter small projects.
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Grey Counter Application using Flutter
+# 1) Grey Counter Application using Flutter
 
 👨🏻‍💻 I made really simple aesthetic looking Counter Application📱 using Flutter✨ which does literally what its name says.
 
@@ -25,14 +25,6 @@
 🔮 You can visit this Repository by clicking [here](https://github.com/quibler7/Grey-Counter-Application-using-Flutter).
 
 
-## Setup
-
-Run the following commands from your terminal:
-
-1) `git clone https://github.com/quibler7/Grey-Counter-Application-using-Flutter` to clone this repository 
-
-2) `flutter pub get` in the project root directory to install all the required dependencies.
-
 ## Screenshots 
 
   <img src = "lib/7.png" height = 426 width = 196.5 >
@@ -41,7 +33,7 @@ Run the following commands from your terminal:
 ---
 
 
-# BottomNavigationBar using Flutter
+# 2) BottomNavigationBar using Flutter
 
 🪄 I made a simple App containing BottomNavigationBar using GNav ( google nav bar ) 
 
@@ -49,13 +41,6 @@ Run the following commands from your terminal:
 
 🔮 You can visit this Repository by clicking [here](https://github.com/quibler7/BottomNavigationBar-using-Flutter).
 
-## Setup
-
-Run the following commands from your terminal:
-
-1) `git clone https://github.com/quibler7/BottomNavigationBar-using-Flutter` to clone this repository 
-
-2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 ## Screenshots 
 
